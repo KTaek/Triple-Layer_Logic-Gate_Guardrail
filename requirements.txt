@@ -1,0 +1,8 @@
+streamlit
+reportlab
+google-genai
+numpy
+pandas
+sentence-transformers
+transformers
+torch
